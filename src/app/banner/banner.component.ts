@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class BannerComponent {
 
+  openResume() {
+    window.open("assets/Resume.pdf", "_blank");
+  }
+
+
 }
