@@ -1,0 +1,3 @@
+.after-img{
+  @apply after:content-none after:relative after:w-80 after:h-80 after:z-0 after:block after:rounded-md after:border-2 after:border-green-500  after:bottom-80 after:left-80 after:w-full after:h-full;
+}
