@@ -8,7 +8,7 @@ module.exports = {
         'color2': '#1b263b',
         'color3': '#415a77',
         'color4': '#9eb6db',
-        'color5': '#e0e1dd',
+        'color5': '#ffffff',
       },
       fontFamily: {
         'pacifico': ['Pacifico', 'cursive'],
