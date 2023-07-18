@@ -1,0 +1,12 @@
+.after-img{
+  @apply after:content-none after:relative after:w-80 after:h-80 after:z-0 after:block after:rounded-md after:border-2 after:border-green-500  after:bottom-80 after:left-80 after:w-full after:h-full;
+}
+
+
+.navbar-buttons{
+  @apply block py-2 pl-3 pr-4 text-color4 rounded hover:bg-color3 hover:bg-transparent md:border-0 hover:text-color3 md:p-0 ;
+}
+
+.text-highlight{
+  @apply hover:underline underline-offset-4 text-color5;
+}
