@@ -1,6 +1,12 @@
-# ErenbudurPortfolio
+# Erenbudur Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+Personal website of created with Angular and Tailwind CSS.
+
+## Description
+
+This website was completed over the summer of 2023. I aimed to create a functional website that would also help me practice using angular and tailwind. I am no UX designer, but it was still enjoyable to design the website and see it come to life. I also wanted to create a website that would be easy to update and maintain.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3 and [Tailwind CSS](https://tailwindcss.com/) version 3.3.2.
 
 ## Development server
 
